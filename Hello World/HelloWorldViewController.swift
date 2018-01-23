@@ -15,7 +15,7 @@ class HelloWorldViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        messageLabel.text = "Welcome"
+        messageLabel.text = "Welcome!"
 
         // Do any additional setup after loading the view.
     }
